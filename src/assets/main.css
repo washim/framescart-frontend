@@ -1,0 +1,30 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif !important;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+}
+
+.card-img-top {
+    height: 304px;
+    object-fit: cover;
+}
+
+.product-main-gallery {
+    height: 650px;
+    object-fit: cover;
+}
+
+.product-gallery {
+    height: 200px;
+}
+
+.bg-framescart {
+    background-color: #232F3E;
+}
+
+footer {
+    color: white;
+    margin-top: 20px;
+}
